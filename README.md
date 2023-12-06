@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jay Patel
-- 👀 I’m interested in ...Badminton
+- 👀 I’m interested in ...
 - 🌱 I’m currently learning ...CSE-AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...xxxxxxxxxxx.
