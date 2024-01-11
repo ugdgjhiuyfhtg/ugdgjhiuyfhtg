@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jay Patel
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...CSE-AI
+- 🌱 I’m currently learning ...CSE-AI-19
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...xxxxxxxxxxx.
 
